@@ -16,6 +16,16 @@
 
 <a name="priority_sql"><h2>Особенности и фишки SQL</h2></a>
 
+<h6>Порядок написания операций в SQL:</h6>
+
+1. FROM + JOIN
+2. WHERE
+3. GROUP BY
+4. HAVING
+5. SELECT (windows function happen here!)
+6. ORDER BY
+7. LIMIT
+
 <h6>Приоритеты операций:</h6>
 
 1. круглые скобки
