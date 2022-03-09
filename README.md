@@ -20,3 +20,4 @@
 
 <a name="note_sql"><h2>Заметки по SQL</h2></a>
 * В некоторых реализациях SQL (SQL Server, SQL Postgres 10) - Вместо AUTO_INCREMENT используется IDENTITY (В более старых версиях SQL - SERIAL)
+* В PostgreSQL вместо IF  используют конструкцию CASE ... WHEN ... THEN ... ELSE ... END [и некоторые другие](https://www.postgresql.org/docs/12/functions-conditional.html).
