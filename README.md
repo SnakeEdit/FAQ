@@ -19,3 +19,4 @@
 [Автокорректор кода SQL](https://codebeautify.org/sqlformatter) - лучше его применять с осторожностью
 
 <a name="note_sql"><h2>Заметки по SQL</h2></a>
+* В некоторых реализациях SQL (SQL Server, SQL Postgres 10) - Вместо AUTO_INCREMENT используется IDENTITY (В более старых версиях SQL - SERIAL)
