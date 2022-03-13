@@ -69,7 +69,8 @@
 
 <a name="_projects_py"><h2>Реализации на Python</h2></a>
 <h6>Алгоритмы сортировки:</h6>
-< def sort_choise(array): # СОРТИРОВКА ВЫБОРОМ
+< 
+def sort_choise(array): # СОРТИРОВКА ВЫБОРОМ
     for i in range(len(array) - 1):
         m = i
         j = i + 1
